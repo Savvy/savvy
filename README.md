@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=savvy&bg_color=212121&text_color=eeeeee&title_color=#3498db&border_color=#3498db&icon_color=#3498db&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Savvy/savvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
